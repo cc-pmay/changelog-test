@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.2](https://github.com/cc-pmay/changelog-test/compare/v1.2.1...v1.2.2) (2022-09-29)
+
+
+### Bug Fixes
+
+* neuer test ([9e9dea0](https://github.com/cc-pmay/changelog-test/commit/9e9dea06f676dae7c2699370972a9f9a36c6ab91))
+
+## [1.2.1](https://github.com/cc-pmay/changelog-test/compare/v1.2.0...v1.2.1) (2022-09-29)
+
+
+### Bug Fixes
+
+* release please für dev und main ([b5341f2](https://github.com/cc-pmay/changelog-test/commit/b5341f293c4955a7cba80bed60c244229c3d46c2))
+* release please für dev und main ([#13](https://github.com/cc-pmay/changelog-test/issues/13)) ([5d49998](https://github.com/cc-pmay/changelog-test/commit/5d49998e5bb805ea959371d9db1133a03f50c00a))
+* releases ([e587a9d](https://github.com/cc-pmay/changelog-test/commit/e587a9dd47ebbfdfb479440ac950e1a4bef57f2a))
+* test ([e010603](https://github.com/cc-pmay/changelog-test/commit/e0106030d05aff7d1655a92f283249fe06d412c1))
+* test ([4e1849f](https://github.com/cc-pmay/changelog-test/commit/4e1849fb6cc60b8f887bb6fe58f8968939f9f203))
+
 ## [1.2.0](https://github.com/cc-pmay/changelog-test/compare/v1.1.1...v1.2.0) (2022-09-29)
 
 
