@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cc-pmay/changelog-test/compare/v1.1.0...v1.1.1) (2022-09-29)
+
+
+### Bug Fixes
+
+* release test ([25f4d3f](https://github.com/cc-pmay/changelog-test/commit/25f4d3f18eec3d1665214657139bf3e7028fd119))
+
 ## [1.1.0](https://github.com/cc-pmay/changelog-test/compare/v1.0.0...v1.1.0) (2022-09-29)
 
 
