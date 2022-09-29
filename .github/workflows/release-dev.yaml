@@ -1,0 +1,19 @@
+name: release-dev
+on:
+  push:
+    branches:
+      - dev
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use release please
+        uses: google-github-actions/release-please-action@v3
+        id: release
+        with:
+          release-type: node
+          package-name: changelog-test
+          bump-minor-pre-major: true
+          bump-patch-for-minor-pre-major: true
+          default-branch: dev
+          release-labels: "autorelease: published"
