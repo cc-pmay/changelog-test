@@ -1,15 +1,16 @@
-name: release-dev
+name: release-main
 on:
   push:
     branches:
       - dev
 jobs:
   release-please:
-    name: Use release please
     runs-on: ubuntu-latest
     id: release
     steps:
-      - uses: google-github-actions/release-please-action@v3
+      - name: Use release please
+        uses: google-github-actions/release-please-action@v3
+        id: release
         with:
           release-type: node
           package-name: changelog-test
