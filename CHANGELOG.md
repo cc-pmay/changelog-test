@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/cc-pmay/changelog-test/compare/v1.4.0...v1.4.1) (2022-09-29)
+
+
+### Bug Fixes
+
+* release dev yeeted ([1ce8f88](https://github.com/cc-pmay/changelog-test/commit/1ce8f880f37e1b795afc57717435ed18ec3c65fd))
+
 ## [1.4.0](https://github.com/cc-pmay/changelog-test/compare/v1.3.0...v1.4.0) (2022-09-29)
 
 
